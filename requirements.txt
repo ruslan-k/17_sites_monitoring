@@ -1,0 +1,2 @@
+future==0.16.0
+python-whois==0.6.4

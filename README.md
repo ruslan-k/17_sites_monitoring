@@ -1,6 +1,13 @@
 # Sites Monitoring Utility
 
-[TODO. There will be project description]
+The script checks health status (response code and expiration date) of sites in provided url list.
+
+# Usage
+
+    pip install -r requirements.txt
+    python3 check_sites_health.py filepath
+
+Where filepath - path to url list file. Each url should be on a new line.
 
 # Project Goals
 
